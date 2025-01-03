@@ -6,3 +6,4 @@ for user in $list ; do
 	sudo chage -l $user
 	echo "--------------"
 done
+echo "YOU DIT IT!!!"
